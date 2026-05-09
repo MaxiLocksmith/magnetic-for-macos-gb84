@@ -1,4 +1,4 @@
-
+Magnetic for macOS advanced Automation - OCR-support and hotkey-customization offers the most advanced Magnetic for macOS automation, with OCR-support and hotkey-customization.
 
 
 
